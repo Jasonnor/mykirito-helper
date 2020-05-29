@@ -12,6 +12,7 @@ function runJob() {
 }
 (function loop() {
     const duration = Math.random() * 10000 + 10000
+    console.log(`Wait ${(duration / 1000).toFixed(2)} sec before next action...`)
     setTimeout(function () {
         runJob()
         loop()
