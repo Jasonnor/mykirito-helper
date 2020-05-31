@@ -1,7 +1,11 @@
 # mykirito-helper
-⚔️ Simple auto action and pvp script of mykirito, a web RPG about to close ⚔️
+
+![mykirito](clear.png)
+
+⚔️ Simple auto action and pvp script of mykirito, a closed web RPG ⚔️
 
 ## Usage
+
 1. Add/edit job name of `jobTextList` in [helper.js](helper.js), e.g.,
     ```javascript
     let jobTextList = ['自主訓練', '領取獎勵', '友好切磋', '挑戰'];
