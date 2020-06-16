@@ -2,7 +2,9 @@
 
 ![mykirito](clear.png)
 
-⚔️ Simple auto action and pvp script of mykirito, a closed web RPG ⚔️
+⚔️ Simple auto action and pvp script of mykirito, a closed web MMORPG ⚔️
+
+Update: Ooookay, it open again. 😆
 
 ## Usage
 
@@ -13,3 +15,10 @@
 2. Copy codes in `helper.js`
 3. Go to mykirito and paste it on browser console
 4. Press enter
+
+## Features
+
+* Auto doing any job, e.g., action, pvp or get stage reward
+* Captcha notification
+
+![captcha](captcha.png)
